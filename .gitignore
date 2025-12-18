@@ -1,0 +1,33 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset 
+dataset/
+dataset/**
+
+# YOLO training & inference outputs
+runs/
+runs/**
+
+# Model weights 
+*.pt
+*.onnx
+*.engine
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+yolov8/
+YOLOv8/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

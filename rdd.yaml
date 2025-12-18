@@ -1,0 +1,12 @@
+# RDD2022 Dataset for YOLOv8
+path: dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: D00_Longitudinal
+  1: D01_Transverse
+  2: D10_Alligator
+  3: D20_Pothole
